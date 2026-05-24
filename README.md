@@ -1,2 +1,14 @@
-# Prabhanjan-Meher---star
-# 🌟 Prabhanjan Meher Star  Welcome to the symbolic star page dedicated to **Prabhanjan Meher**.  ✨ A name shining among the stars.  ## About This project represents a symbolic digital star in the infinite universe.  ## Quote > “Some stars are discovered in the sky, and some are born on Earth.”  ## Live Website Coming soon...
+# 🌟 Prabhanjan Meher Star
+
+Welcome to the symbolic star page dedicated to **Prabhanjan Meher**.
+
+✨ A name shining among the stars.
+
+## About
+This project represents a symbolic digital star in the infinite universe.
+
+## Quote
+> “Some stars are discovered in the sky, and some are born on Earth.”
+
+## Live Website
+Coming soon...
